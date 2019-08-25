@@ -15,16 +15,7 @@
 
 ## Screenshots
 
-![Screenshot 1](http://static.blinkfox.com/typora_vue_theme_screen_01.png)
+### VueRTL
 
-![Screenshot 2](http://static.blinkfox.com/typora_vue_theme_screen_02.png)
+### VueRTL Dark
 
-![Screenshot 3](http://static.blinkfox.com/typora_vue_theme_screen_03.png)
-
-### Vue Dark
-
-![Screenshot 4](https://github.com/MamoruDS/typora-vue-theme/raw/master/screenshots/screenshot_01.png)
-
-![Screenshot 5](https://github.com/MamoruDS/typora-vue-theme/raw/master/screenshots/screenshot_02.png)
-
-> **Thanks**: This `vue-dark.css` by [typora-vue-dark-theme](https://github.com/MamoruDS/typora-vue-dark-theme).
