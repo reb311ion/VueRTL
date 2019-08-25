@@ -16,6 +16,7 @@
 ## Screenshots
 
 ### VueRTL
+![image](https://user-images.githubusercontent.com/22657154/63655168-10538e80-c785-11e9-999c-1d48d8f87c98.png)
 
 ### VueRTL Dark
-
+![image](https://user-images.githubusercontent.com/22657154/63655163-016cdc00-c785-11e9-96a2-8999c13336a2.png)
