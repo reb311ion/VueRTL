@@ -1,4 +1,4 @@
-# typora-vue-theme
+# typora-VueRTL-theme
 
 > This is a typora theme inspired by [Vue](http://vuejs.org/) document style.
 
